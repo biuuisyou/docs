@@ -45,7 +45,7 @@
     {
       "name": "Jupiter API Suite",
       "openapi": "/api-reference/jup-openapi.json",
-      "url": "",
+      "url": "https://station.jup.ag/",
       "icon": "square-terminal"
     },
     {
