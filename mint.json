@@ -39,13 +39,13 @@
     },
     {
       "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
+      "icon": "discord",
+      "url": "https://discord.gg/jup"
     },
     {
-      "name": "Jupiter API Suite",
-      "openapi": "/api-reference/jup-openapi.json",
-      "url": "https://station.jup.ag/",
+      "name": "API Reference",
+      "openapi": "/api-reference/openapi.json",
+      "url": "api-reference",
       "icon": "square-terminal"
     },
     {
